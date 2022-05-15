@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>c:/Users/Sztakler/Documents/Leaf/Content/controls/button.png</File>
+    <File>c:/Users/Sztakler/Documents/Leaf/Content/controls/button_square.png</File>
+    <File>c:/Users/Sztakler/Documents/Leaf/Content/controls/wooden_button.png</File>
+    <File>c:/Users/Sztakler/Documents/Leaf/Content/Font.spritefont</File>
+    <File>c:/Users/Sztakler/Documents/Leaf/Content/fonts/Menu.spritefont</File>
+    <File>c:/Users/Sztakler/Documents/Leaf/Content/Icons/Icon.ico</File>
+    <File>c:/Users/Sztakler/Documents/Leaf/Content/sprites/arrow.png</File>
+    <File>c:/Users/Sztakler/Documents/Leaf/Content/sprites/blue.png</File>
+    <File>c:/Users/Sztakler/Documents/Leaf/Content/sprites/earth.png</File>
+    <File>c:/Users/Sztakler/Documents/Leaf/Content/sprites/green.png</File>
+    <File>c:/Users/Sztakler/Documents/Leaf/Content/sprites/leaf.png</File>
+    <File>c:/Users/Sztakler/Documents/Leaf/Content/sprites/leafRunCycleLeft_200px.png</File>
+    <File>c:/Users/Sztakler/Documents/Leaf/Content/sprites/leafRunLeft.png</File>
+    <File>c:/Users/Sztakler/Documents/Leaf/Content/sprites/red.png</File>
+    <File>c:/Users/Sztakler/Documents/Leaf/Content/sprites/scottpilgrim_multiple.png</File>
+    <File>c:/Users/Sztakler/Documents/Leaf/Content/sprites/shuttle.png</File>
+    <File>c:/Users/Sztakler/Documents/Leaf/Content/sprites/stars.jpg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
