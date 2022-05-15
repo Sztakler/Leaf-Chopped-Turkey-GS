@@ -1,18 +1,1 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"c:/Users/Sztakler/Documents/Leaf/Content/controls/button.png","c:/Users/Sztakler/Documents/Leaf/Content/bin/DesktopGL/Content/controls/button.xnb","TextureProcessor","Texture2DContent",941,25685,0,4228489
-"c:/Users/Sztakler/Documents/Leaf/Content/controls/button_square.png","c:/Users/Sztakler/Documents/Leaf/Content/bin/DesktopGL/Content/controls/button_square.xnb","TextureProcessor","Texture2DContent",858,16085,0,0055486
-"c:/Users/Sztakler/Documents/Leaf/Content/controls/wooden_button.png","c:/Users/Sztakler/Documents/Leaf/Content/bin/DesktopGL/Content/controls/wooden_button.xnb","TextureProcessor","Texture2DContent",40536,36000085,1,4838262
-"c:/Users/Sztakler/Documents/Leaf/Content/Font.spritefont","c:/Users/Sztakler/Documents/Leaf/Content/bin/DesktopGL/Content/Font.xnb","LocalizedFontProcessor","SpriteFontContent",2426,956,0,151564
-"c:/Users/Sztakler/Documents/Leaf/Content/fonts/Menu.spritefont","c:/Users/Sztakler/Documents/Leaf/Content/bin/DesktopGL/Content/fonts/Menu.xnb","FontDescriptionProcessor","SpriteFontContent",2010,37922,0,0192307
-"c:/Users/Sztakler/Documents/Leaf/Content/Icons/Icon.ico","c:/Users/Sztakler/Documents/Leaf/Content/bin/DesktopGL/Content/Icons/Icon.xnb","TextureProcessor","Texture2DContent",147541,262229,0,0086138
-"c:/Users/Sztakler/Documents/Leaf/Content/sprites/arrow.png","c:/Users/Sztakler/Documents/Leaf/Content/bin/DesktopGL/Content/sprites/arrow.xnb","TextureProcessor","Texture2DContent",2024,16085,0,0038198
-"c:/Users/Sztakler/Documents/Leaf/Content/sprites/blue.png","c:/Users/Sztakler/Documents/Leaf/Content/bin/DesktopGL/Content/sprites/blue.xnb","TextureProcessor","Texture2DContent",13691,262229,0,0101446
-"c:/Users/Sztakler/Documents/Leaf/Content/sprites/earth.png","c:/Users/Sztakler/Documents/Leaf/Content/bin/DesktopGL/Content/sprites/earth.xnb","TextureProcessor","Texture2DContent",52980,133301,0,0064415
-"c:/Users/Sztakler/Documents/Leaf/Content/sprites/green.png","c:/Users/Sztakler/Documents/Leaf/Content/bin/DesktopGL/Content/sprites/green.xnb","TextureProcessor","Texture2DContent",10885,262229,0,0088039
-"c:/Users/Sztakler/Documents/Leaf/Content/sprites/leaf.png","c:/Users/Sztakler/Documents/Leaf/Content/bin/DesktopGL/Content/sprites/leaf.xnb","TextureProcessor","Texture2DContent",198715,4872085,0,1824843
-"c:/Users/Sztakler/Documents/Leaf/Content/sprites/leafRunCycleLeft_200px.png","c:/Users/Sztakler/Documents/Leaf/Content/bin/DesktopGL/Content/sprites/leafRunCycleLeft_200px.xnb","TextureProcessor","Texture2DContent",145118,2880085,0,1080023
-"c:/Users/Sztakler/Documents/Leaf/Content/sprites/leafRunLeft.png","c:/Users/Sztakler/Documents/Leaf/Content/bin/DesktopGL/Content/sprites/leafRunLeft.xnb","TextureProcessor","Texture2DContent",145118,2880085,0,1032339
-"c:/Users/Sztakler/Documents/Leaf/Content/sprites/red.png","c:/Users/Sztakler/Documents/Leaf/Content/bin/DesktopGL/Content/sprites/red.xnb","TextureProcessor","Texture2DContent",13180,262229,0,01305
-"c:/Users/Sztakler/Documents/Leaf/Content/sprites/scottpilgrim_multiple.png","c:/Users/Sztakler/Documents/Leaf/Content/bin/DesktopGL/Content/sprites/scottpilgrim_multiple.xnb","TextureProcessor","Texture2DContent",6210,967765,0,0354557
-"c:/Users/Sztakler/Documents/Leaf/Content/sprites/shuttle.png","c:/Users/Sztakler/Documents/Leaf/Content/bin/DesktopGL/Content/sprites/shuttle.xnb","TextureProcessor","Texture2DContent",9105,125045,0,0076672
-"c:/Users/Sztakler/Documents/Leaf/Content/sprites/stars.jpg","c:/Users/Sztakler/Documents/Leaf/Content/bin/DesktopGL/Content/sprites/stars.xnb","TextureProcessor","Texture2DContent",150614,1920085,0,069712

@@ -114,19 +114,21 @@ namespace Leaf
         {
             if (velocity.X < 0)
             {
-                _animationManager.Play(_animations["run_left"]);
+                _animationManager.Play(_animations["run"]);
             }
             else if (velocity.X > 0)
             {
-                _animationManager.Play(_animations["run_right"]);
+                _animationManager.Play(_animations["run"]);
             }
-            else if (velocity.X > 0)
+            else if (velocity.Y < 0)
             {
-                _animationManager.Play(_animations["run_left"]);
+                _animationManager.Play(_animations["attack1"]);
             }
-            else if (velocity.X > 0)
+            else if (velocity.Y > 0)
             {
-                _animationManager.Play(_animations["run_left"]);
+                _animationManager.Play(_animations["attack2"]);
+            } else {
+                 _animationManager.Play(_animations["idle"]);
             }
         }
 
@@ -147,9 +149,15 @@ namespace Leaf
             //     position -= direction * linearVelocity;
 
                 SetAnimations();
+                SpriteEffects spriteEffects = _animationManager.SpriteEffects;
 
-                _animationManager.Update(gameTime);
-
+                if (velocity.X > 0)
+                    spriteEffects = SpriteEffects.None;
+                else if (velocity.X < 0)
+                    spriteEffects = SpriteEffects.FlipHorizontally;
+ 
+                _animationManager.Update(gameTime, spriteEffects);
+            
                 position += velocity;
             velocity = Vector2.Zero;
         }

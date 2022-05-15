@@ -60,8 +60,10 @@ namespace Leaf
 
             var animations = new Dictionary<string, Animation>()
             {
-                {"run_right", new Animation(Content.Load<Texture2D>("sprites/scottpilgrim_multiple"), 8, 2, 0)},
-                {"run_left", new Animation(Content.Load<Texture2D>("sprites/scottpilgrim_multiple"), 8, 2, 1)},
+                {"idle", new Animation(Content.Load<Texture2D>("sprites/Owlet_Monster/Idle_4"), 4, 1, 0)},
+                {"run", new Animation(Content.Load<Texture2D>("sprites/Owlet_Monster/Run_6"), 6, 1, 0)},
+                {"attack1", new Animation(Content.Load<Texture2D>("sprites/Owlet_Monster/Attack1_4"), 4, 1, 0)},
+                {"attack2", new Animation(Content.Load<Texture2D>("sprites/Owlet_Monster/Attack2_6"), 6, 1, 0)},
             };
 
             _sprites = new List<Sprite>()

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>c:/Users/Sztakler/Documents/Leaf/Content/sprites/leaf.png</SourceFile>
+  <SourceFile>C:/Users/Sztakler/Documents/Leaf/Content/sprites/leaf.png</SourceFile>
   <SourceTime>2022-05-09T17:47:17.7187502+02:00</SourceTime>
-  <DestFile>c:/Users/Sztakler/Documents/Leaf/Content/bin/DesktopGL/Content/sprites/leaf.xnb</DestFile>
-  <DestTime>2022-05-15T09:38:12.6492618+02:00</DestTime>
+  <DestFile>C:/Users/Sztakler/Documents/Leaf/Content/bin/DesktopGL/Content/sprites/leaf.xnb</DestFile>
+  <DestTime>2022-05-15T10:23:56.5858344+02:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2020-08-10T18:17:54+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
